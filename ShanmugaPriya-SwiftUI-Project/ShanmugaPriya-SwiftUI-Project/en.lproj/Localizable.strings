@@ -1,0 +1,33 @@
+NetworkErrorTitle = "Network Error !";
+NetworkErrorMessage = "No Internet. Please Check your Network connection";
+LoginButtonTitle = "Login";
+InvalidEmail = "Email format is invalid";
+InvalidPassword = "Password requires min 8 characters";
+PasswordsNotMatched = "Password and Confirm Password is not matched";
+RequiredFieldsNotFilled = "All Fields must be filled";
+Authenticating = "Authenticating...";
+InvalidCredentials = "Invalid Credentials";
+Locked = "Locked";
+Unlocked = "Unlocked";
+SignUp = "Don't have an account? Register";
+LoginReason = "Already have an account? Login here";
+ForgotPassword = "Forgot Password?";
+BiometricRequestReason = "We need to unlock your data.";
+BackToLogin = "Back to Login";
+
+Login = "Login";
+Ok = "OK";
+useBiometricLogin = "Use Biometric";
+ConfirmPassword = "Confirm Password";
+Register = "Register";
+SupportUrl = "Support URL";
+Caption = "All User info under one Roof";
+
+Email = "Email";
+Password = "Password";
+UserName = "User Name";
+EnterNewPassword = "Enter New Password";
+ReEnterPassword = "Re-enter Password";
+Confirm = "Confirm";
+FirstName = "First Name";
+LastName = "Last Name";
